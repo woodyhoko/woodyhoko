@@ -4,7 +4,7 @@ This is Ho Ko.
 - 👀 I am actively looking for AI/ML or SDE internship in the US (2022 summer)
 - 🤖 I am obsessed and proficient in Artificial Intelligence and Machine Learning.
 - ✨ I have conducted numberous projects in various domains, e.g. economy simulations, liver cancer prediction, weather forecast, astronomy supernova researches and more.
-- ⚡ I am a fast learner, to adapt state of the art concepts and apply newly acquired domain knowledge in any situation..
+- ⚡ I am a fast learner, to adapt state of the art concepts and apply newly acquired domain knowledge in any situation.
 
 <p align="center">
 
