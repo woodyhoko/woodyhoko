@@ -1,4 +1,4 @@
-### Hello world 👋
+### Hello World 👋
 
 This is Ho Ko.
 - 👀 I am actively looking for AI/ML or SDE internship in the US (2022 summer)
