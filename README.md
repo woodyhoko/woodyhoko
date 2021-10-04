@@ -8,7 +8,7 @@ This is Ho Ko.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/?username=woodyhoko&count_private=true&theme=tokyonight&showicons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woodyhoko&langs_count=5&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/?username=woodyhoko&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide=contribs,issues,prs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woodyhoko&layout=compact&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=Tex,Shell,Cuda,html" />
 
 </p>
