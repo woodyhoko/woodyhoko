@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello Github 👋
 
 This is Ho Ko.
 - 👀 I am actively looking for AI/ML or SDE newgrad in the US (2023 summer)
