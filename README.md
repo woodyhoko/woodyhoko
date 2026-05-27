@@ -1,15 +1,41 @@
-### Hello Github 👋
+# Hi, I'm Ho Ko 👋
 
-This is Ho Ko.
-- 👀 I am actively looking for AI/ML projects to work on, if you have startup idea, hmu!
-- 🤖 I am obsessed and proficient in Artificial Intelligence and Machine Learning.
-- ✨ I have conducted numerous projects in various domains, e.g. economy simulations, liver cancer prediction, weather forecast, astronomy supernova researches and more.
-- ⚡ I am a fast learner, to adapt state of the art concepts and apply newly acquired domain knowledge in any situation.
+**AI/ML Engineer** with a passion for building things that think, simulate, and visualize.
 
-<p align="center">
+---
 
-<!--<img src="https://github-readme-stats.vercel.app/api/?username=woodyhoko&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide=contribs,issues,prs" />
-<--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woodyhoko&layout=compact&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=Tex,Shell,Cuda,html" />-->
+## 🔭 What I Build
 
-</p>
+| Domain | Examples |
+|---|---|
+| **Simulations** | [Artificial Life](https://github.com/woodyhoko/Artificial_Life) — evolving neural-net creatures · [Stock Simulator](https://github.com/woodyhoko/Stock_Simulator) — 100 AI traders |
+| **Web Tools** | [Speed of Life](https://woodyhoko.github.io/speed-of-life) · [L vs Y](https://woodyhoko.github.io/L-vs-Y) · [QuantLab](https://woodyhoko.github.io/trading-sim) |
+| **ML Research** | [Fall Detection](https://github.com/woodyhoko/Fall_Detection) · [Generative Art](https://github.com/woodyhoko/Art_Creation) · [Liver Cancer Prediction](https://github.com/woodyhoko/liver-cancer-prediction) |
+| **Games & Demos** | [Tetris AI (ASM)](https://github.com/woodyhoko/Tetris_AI) · [2D Self-Driving AI](https://github.com/woodyhoko/2D-auto-driving-AI) · [Match Maker (Gemma 3n)](https://woodyhoko.github.io/match-maker-game) |
+| **AI Agents** | [Construction Law Agent](https://woodyhoko.github.io/construction_law_agent) · [Grok SDR Agent](https://woodyhoko.github.io/xai_take_home) |
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python · JavaScript · C++ · MATLAB · x86 Assembly  
+**ML/AI:** PyTorch · TensorFlow · scikit-learn · MediaPipe · OpenCV  
+**Web:** React · Three.js · Tailwind CSS · WebRTC · WebAssembly  
+**Tools:** Git · Docker · Heroku · GitHub Pages
+
+---
+
+## 📌 Featured Projects
+
+- 🌌 **[3D Portfolio Galaxy](https://woodyhoko.github.io/portfolio_2026)** — interactive WebGL constellation of my work
+- 🧠 **[Tetris AI in Assembly](https://github.com/woodyhoko/Tetris_AI)** — 50,000-line average score, written in x86 ASM
+- 🌿 **[Artificial Life](https://github.com/woodyhoko/Artificial_Life)** — creatures that evolve without any hand-coded behaviour
+- ⏱️ **[Speed of Life](https://woodyhoko.github.io/speed-of-life)** — visualize why time feels faster as you age
+
+---
+
+## 📫 Contact
+
+- Email: woodyhoko@gmail.com
+- Portfolio: [woodyhoko.github.io/portfolio_2026](https://woodyhoko.github.io/portfolio_2026)
+
