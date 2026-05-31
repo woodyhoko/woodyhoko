@@ -37,5 +37,5 @@
 ## 📫 Contact
 
 - Email: woodyhoko@gmail.com
-- Portfolio: [woodyhoko.github.io/portfolio_2026](https://woodyhoko.github.io/portfolio_2026)
+- Portfolio: [woodyhoko.github.io/portfolio_2026](https://hoko.xyz)
 
